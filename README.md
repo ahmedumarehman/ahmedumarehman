@@ -1,5 +1,4 @@
 <!-- PROFILE HEADER -->
-
 <h1 align="center">Hi, I'm Ahmed Umar Rehman 👋</h1>
 
 <p align="center">
@@ -13,28 +12,26 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedumarehman&label=Profile%20Views&color=2EA3F2&style=flat" alt="Profile views" />
 </p>
 
-👨‍💻 About Me
+---
 
-I'm a Cybersecurity graduate from FAST-NUCES with hands-on experience across Cloud, DevOps, Cybersecurity, Full-Stack Development, and AI-powered applications.
+## 👨‍💻 About Me
 
-I enjoy building systems end-to-end — from responsive frontend interfaces and backend APIs to AWS infrastructure, containers, Kubernetes deployments, and security controls.
+I'm a **Cybersecurity graduate from FAST-NUCES** with hands-on experience across **Cloud, DevOps, Cybersecurity, Full-Stack Development, and AI-powered applications**.
 
-☁️ Building hands-on experience with AWS, cloud architecture, and cloud security
+I enjoy building systems end-to-end — from responsive frontend interfaces and backend APIs to **AWS infrastructure, containers, Kubernetes deployments, and security controls**.
 
-🚀 Working with Docker, Kubernetes, Linux, Git, and DevSecOps practices
+- ☁️ Building hands-on experience with **AWS, cloud architecture, and cloud security**
+- 🚀 Working with **Docker, Kubernetes, Linux, Git, and DevSecOps practices**
+- 💻 Developing modern applications with **React, Next.js, TypeScript, Node.js, Python, and Supabase/Firebase**
+- 🔐 Exploring **application security, vulnerability assessment, EASM, encryption, digital forensics, and security engineering**
+- 🤖 Building **AI-powered applications** and experimenting with machine learning for security use cases
+- 📚 Currently strengthening my **Cloud + DevOps + Security** skill set through hands-on projects and labs
 
-💻 Developing modern applications with React, Next.js, TypeScript, Node.js, Python, and Supabase/Firebase
+---
 
-🔐 Exploring application security, vulnerability assessment, EASM, encryption, digital forensics, and security engineering
+## 🛠️ Tech Stack
 
-🤖 Building AI-powered applications and experimenting with machine learning for security use cases
-
-📚 Currently strengthening my Cloud + DevOps + Security skill set through hands-on projects and labs
-
-🛠️ Tech Stack
-
-☁️ Cloud & DevOps
-
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900">
   <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonaws&logoColor=white">
@@ -50,8 +47,7 @@ I enjoy building systems end-to-end — from responsive frontend interfaces and 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
-💻 Development
-
+### 💻 Development
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
@@ -66,8 +62,7 @@ I enjoy building systems end-to-end — from responsive frontend interfaces and 
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
 </p>
 
-🔐 Cybersecurity
-
+### 🔐 Cybersecurity
 <p>
   <img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white">
   <img src="https://img.shields.io/badge/Wazuh-00599C?logo=wazuh&logoColor=white">
@@ -79,8 +74,7 @@ I enjoy building systems end-to-end — from responsive frontend interfaces and 
   <img src="https://img.shields.io/badge/MFA-374151?logo=googleauthenticator&logoColor=white">
 </p>
 
-🤖 AI & Data
-
+### 🤖 AI & Data
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
@@ -90,28 +84,30 @@ I enjoy building systems end-to-end — from responsive frontend interfaces and 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
 </p>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-☁️ AWS EKS DevOps Dashboard
+### ☁️ AWS EKS DevOps Dashboard
 
-Containerized application deployed with Docker, Kubernetes, Amazon EKS, and Amazon ECR. The project demonstrates multi-service orchestration, load balancing, health checks, scaling, and cloud deployment workflows.
+Containerized application deployed with **Docker, Kubernetes, Amazon EKS, and Amazon ECR**. The project demonstrates multi-service orchestration, load balancing, health checks, scaling, and cloud deployment workflows.
 
-Stack: Docker Kubernetes EKS ECR AWS
+**Stack:** `Docker` `Kubernetes` `EKS` `ECR` `AWS`
 
 <a href="https://github.com/ahmedumarehman/AWS-EKS-DevOps-Dashboard-Deployment">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-🔐 Secure AWS Deployment
+### 🔐 Secure AWS Deployment
 
-Hands-on AWS security implementation covering IAM, MFA, S3 security, VPC isolation, EC2 access control, CloudTrail, and CloudWatch with a focus on least privilege, defense in depth, and monitoring.
+Hands-on AWS security implementation covering **IAM, MFA, S3 security, VPC isolation, EC2 access control, CloudTrail, and CloudWatch** with a focus on least privilege, defense in depth, and monitoring.
 
-Stack: AWS IAM VPC EC2 S3 CloudTrail CloudWatch
+**Stack:** `AWS` `IAM` `VPC` `EC2` `S3` `CloudTrail` `CloudWatch`
 
 <a href="https://github.com/ahmedumarehman/Secure-AWS-Deployment">View Project →</a>
 
@@ -121,22 +117,22 @@ Stack: AWS IAM VPC EC2 S3 CloudTrail CloudWatch
 <tr>
 <td width="50%" valign="top">
 
-🛡️ ProbeXpert — Security Scanning Platform
+### 🛡️ ProbeXpert — Security Scanning Platform
 
-Modular cybersecurity platform combining a React frontend, Node/Express backend, Python orchestration layer, and scanning plugins for subdomain discovery, IP/DNS analysis, vulnerability scanning, and application security testing.
+Modular cybersecurity platform combining a **React frontend, Node/Express backend, Python orchestration layer, and scanning plugins** for subdomain discovery, IP/DNS analysis, vulnerability scanning, and application security testing.
 
-Stack: React Node.js Express Python Docker MongoDB
+**Stack:** `React` `Node.js` `Express` `Python` `Docker` `MongoDB`
 
 <a href="https://github.com/ahmedumarehman/ProbeXpert">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-🧑‍💼 CandidateFlow
+### 🧑‍💼 CandidateFlow
 
-A modern SaaS recruitment management system for candidate management, email templates, automated candidate notifications, and recruitment workflows.
+A modern **SaaS recruitment management system** for candidate management, email templates, automated candidate notifications, and recruitment workflows.
 
-Stack: React Vite Tailwind CSS Supabase
+**Stack:** `React` `Vite` `Tailwind CSS` `Supabase`
 
 <a href="https://github.com/ahmedumarehman/CandidateFlow">View Project →</a> · <a href="https://candidate-flow-seven.vercel.app">Live Demo →</a>
 
@@ -144,21 +140,18 @@ Stack: React Vite Tailwind CSS Supabase
 </tr>
 </table>
 
-More Projects
+### More Projects
 
-🏟️ FAST University Sports Issuing System — React + Node.js + AWS S3/EC2/DynamoDB/SES
+- 🏟️ [**FAST University Sports Issuing System**](https://github.com/ahmedumarehman/AWS-UNIVERSITY-SPORTS-ISSUING-SYSTEM) — React + Node.js + AWS S3/EC2/DynamoDB/SES
+- 📰 [**AI Blog Summariser — Urdu**](https://github.com/ahmedumarehman/Nexium-blog-summariser-ai-urdu) — Web scraping, summarization, and English-to-Urdu translation
+- 🔒 [**Secure Signal Chat App**](https://github.com/ahmedumarehman/secure-signal-chat-app) — Secure end-to-end messaging project
+- 🧪 [**Phishing URL Detection — XGBoost + DistilBERT**](https://github.com/ahmedumarehman/Phishing-URL-Detection-XGBoost-DistilBERT) — ML-based phishing detection
+- 🛡️ [**Network Intrusion Detection System**](https://github.com/ahmedumarehman/robust-binary-and-multi-class-intrusion-detection-system) — Machine learning for network intrusion detection
+- 🦠 [**Malware Analysis Report**](https://github.com/ahmedumarehman/Malware-Analysis-Report) — Malware analysis and security research
 
-📰 AI Blog Summariser — Urdu — Web scraping, summarization, and English-to-Urdu translation
+---
 
-🔒 Secure Signal Chat App — Secure end-to-end messaging project
-
-🧪 Phishing URL Detection — XGBoost + DistilBERT — ML-based phishing detection
-
-🛡️ Network Intrusion Detection System — Machine learning for network intrusion detection
-
-🦠 Malware Analysis Report — Malware analysis and security research
-
-🧭 Current Learning Focus
+## 🧭 Current Learning Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud_%26_AWS-Hands--on-2EA3F2?style=for-the-badge">
@@ -168,43 +161,46 @@ More Projects
   <img src="https://img.shields.io/badge/DevSecOps-Expanding-6A0DAD?style=for-the-badge">
 </p>
 
-Currently focused on becoming stronger at designing, deploying, securing, and operating cloud-native applications.
+> Currently focused on becoming stronger at designing, deploying, securing, and operating **cloud-native applications**.
 
-🎓 Education & Certifications
+---
 
-Bachelor of Cyber Security — FAST-NUCES
+## 🎓 Education & Certifications
+
+**Bachelor of Cyber Security — FAST-NUCES**  
 Class of 2026
 
-Selected Certifications / Learning
+**Selected Certifications / Learning**
 
-☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
+- ☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
+- 🔐 AWS Cloud Security Foundation — Amazon Web Services
+- 🛡️ Google Cybersecurity — Coursera
+- 🔗 Blockchain Security — InfoSEC
+- 🤖 IBM Machine Learning with Python — Coursera
+- 💻 IBM Introduction to Web Development with HTML, CSS, JavaScript — Coursera
 
-🔐 AWS Cloud Security Foundation — Amazon Web Services
+---
 
-🛡️ Google Cybersecurity — Coursera
-
-🔗 Blockchain Security — InfoSEC
-
-🤖 IBM Machine Learning with Python — Coursera
-
-💻 IBM Introduction to Web Development with HTML, CSS, JavaScript — Coursera
-
-📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedumarehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedumarehman&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedumarehman&theme=github_dark" alt="GitHub profile details" width="98%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedumarehman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedumarehman&theme=github_dark" alt="GitHub stats" height="190px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedumarehman&theme=github_dark" alt="Top languages" height="190px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedumarehman&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="90%"/>
+  <a href="https://github.com/ahmedumarehman?tab=overview">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions"/>
+  </a>
 </p>
 
-🤝 Let's Connect
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:ahmedumar475@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
@@ -213,4 +209,5 @@ Selected Certifications / Learning
 </p>
 
 <p align="center">
-  <i>Building secure software, learning cloud engineering, and turning ideas into
+  <i>Building secure software, learning cloud engineering, and turning ideas into working systems.</i>
+</p>
